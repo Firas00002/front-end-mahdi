@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: left;
+    margin-top: 2cm;
+    margin-left: 5cm;
+}
+
+.modale_open{
+    display: block;
+    height: 40px;
+    width: 200px;
+background-color: white;
+color:aqua;
+border: solid 1px rgb(48, 211, 233);
+border-radius: 5px;
+
+
+}
